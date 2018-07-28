@@ -1,0 +1,42 @@
+body {
+  font-size: 14px;
+  font-family: "PT Sans";
+  color: rgb(51, 51, 51);
+  line-height: 26px;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+.intresting-thinks-item h3,
+.mini-feature-item h3 {
+  font-size: 21px;
+  color: black;
+  line-height: 21px;
+  font-weight: bold;
+}
+
+.feature-img h3 {
+  font-size: 21px;
+  color: white;
+  line-height: 21px;
+  font-weight: bold;
+}
+
+.resrvation_search h2 {
+  font-size: 30px;
+  color: black;
+  line-height: 36px;
+  font-weight: bold;
+}
+
+.sorting h2,
+.results h3 {
+  font-size: 21px;
+  color: black;
+  line-height: 26px;
+  font-weight: bold;
+}
+
+.visually-hidden {
+  visibility: hidden;
+}
